@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC0-1.0
 # Awesome Gen AI Watermark
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Buy me a coffee](assets/buy_me_a_coffee.svg)](https://buymeacoff.ee/frnmst)
+<a href="https://www.buymeacoffee.com/frnmst" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
 
 Watermarking in generative AI is the practice of inserting, by the gen AI
 itself, a watermark by which a third party can detect with some degree of
