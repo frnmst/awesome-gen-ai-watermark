@@ -52,8 +52,10 @@ not usually detectable just by analyzing the text.
 
 ## Law
 
-- [EU AI Act full text](https://eur-lex.europa.eu/eli/reg/2024/1689) - Full legal act applied in EU.
+- [Generative AI and watermarking - European Parliament briefing](https://www.europarl.europa.eu/RegData/etudes/BRIE/2023/757583/EPRS_BRI(2023)757583_EN.pdf) - End 2023 notes of gen AI watermarking implementations by companies and regulations around the world.
+- [EU AI Act full text](https://eur-lex.europa.eu/eli/reg/2024/1689) - Full legal act applied in EU. Article 50, commas 2 and 4 are of interest about watermarking.
 - [EU AI Act: first regulation on artificial intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) - EU AI Act basic overview, timeline and rules.
+- [EU Icons for labelling AI-generated content](https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content) - Set of possible (optional) official icons to use in EU for some AI-generated or AI-modified content. This is a form of user watermarking.
 
 ## Research
 
